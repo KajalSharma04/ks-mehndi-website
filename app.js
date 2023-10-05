@@ -126,6 +126,7 @@ addcartItem(cartItem)
     href = "#" style="color:red;">remove</a></div>
     </div>
     <div class = "plus-minus">
+    <i class = "fa fa-angle-left add-amount"
     data-id="${cartItem.id}"></i>
     <span class ="no-of-items">${cartItem.amount}</span>
     data-id="${cartItem.id}"</i>
